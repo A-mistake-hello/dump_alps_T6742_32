@@ -1,0 +1,20 @@
+## T6742_32-userdebug 8.1.0 O11019 1559298527 test-keys
+- Manufacturer: duyaya
+- Platform: mt8167
+- Codename: Y1
+- Brand: duyaya
+- Flavor: T6742_32-userdebug
+- Release Version: 8.1.0
+- Kernel Version: 4.4.95
+- Id: O11019
+- Incremental: 1410
+- Tags: test-keys
+- CPU Abilist: armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: zh-CN
+- Screen Density: 240
+- Fingerprint: alps/T6742_32/T6742_32:8.1.0/O11019/1559298527:userdebug/test-keys
+- OTA version: 
+- Branch: T6742_32-userdebug-8.1.0-O11019-1559298527-test-keys
+- Repo: duyaya_y1_dump

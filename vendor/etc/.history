@@ -1,0 +1,106 @@
+[< IP >]
+IP: 192.168.1.101
+ 
+[< SRC DIRECTORY >]
+/home/dyy-yaoming/workspace/dyy-y1s
+ 
+[< CONFIGS >]
+DDR: 
+	
+LCM: 
+	
+CAMERA:
+	
+TP: 
+	
+Sensor: 
+	STK8312(G-sensor): n
+	STK8BA50(G-sensor): n
+Battery: 
+	
+Vibrator: n
+ 
+eMMC MAX CLK: 
+    
+ 
+[< BRANCH INFO >]
+main:
+* dev
+ 
+#############################################################
+ 
+[< GIT LOG >]
+-----------------------------
+[< main >]
+>>>>>
+
+    [T6742_32]
+        1.优化电池曲线9%直接掉到0%
+        补丁编码:zesheng.lin@20190712104433
+
+
+    [T6742_32]
+    1.优化电池曲线9%直接掉到0%
+    补丁编码:zesheng.lin@20190712104433
+
+
+    [T6742_32]创建32位项目T6742_32
+     补丁编码:colin@20190416172633
+
+
+    [t6742]修改点如下：
+    [T6742_DYY]使用mtkbootanimation,并解决开机铃声没作用的问题
+    [T6742_DYY]系统睡眠时间到了无法进入睡眠
+    [T6742_DYY]客户整机旋转不灵敏
+    [T6742_DYY]系统休眠不下去
+    [T6742_DYY]eng版本读取product info数据不匹配
+    [T6742_DYY]蓝光护眼没作用
+    [T6742_DYY][bluetooth]
+           1.开启a2dp_sink功能
+           2.添加蓝牙播放状态广播
+    [T6742_DYY]
+        1.添加系统方向旋转广播
+        2.添加按home键亮屏广播
+        3.添加短按home键广播
+    [T6742_DYY]硬件添加了DCDC，软件需要同步增加控制
+    [T6742_DYY]添加开关机动画及开机铃声
+    [T6742_DYY]修改系统方向后，解决Navigation button显示异常的问题
+    [common][mtk-patch]t-alps-mp-o1.mp5-V2.168 (Security patch: 2019-03-05)
+    [common][mtk-patch]t-alps-mp-o1.mp5-V2.158 (Security patch:2019-02-05)
+    [T6742_DYY]默认使用中性logo
+    [T6742_DYY]修改系统方向，默认横屏显示
+    [T6742_DYY]解决关机时，关机动画调用开机动画的问题
+    [T6742_DYY]解决关机动画无作用的问题
+    [T6742_DYY][systemui]
+        1.修改关机弹窗UI，添加息屏按钮
+     补丁编码:colin@20190403124312
+
+
+    [t6742]修改点如下：
+    [T6742_DYY]使用mtkbootanimation,并解决开机铃声没作用的问题
+    [T6742_DYY]系统睡眠时间到了无法进入睡眠
+    [T6742_DYY]客户整机旋转不灵敏
+    [T6742_DYY]系统休眠不下去
+    [T6742_DYY]eng版本读取product info数据不匹配
+    [T6742_DYY]蓝光护眼没作用
+    [T6742_DYY][bluetooth]
+           1.开启a2dp_sink功能
+           2.添加蓝牙播放状态广播
+    [T6742_DYY]
+        1.添加系统方向旋转广播
+        2.添加按home键亮屏广播
+        3.添加短按home键广播
+    [T6742_DYY]硬件添加了DCDC，软件需要同步增加控制
+    [T6742_DYY]添加开关机动画及开机铃声
+    [T6742_DYY]修改系统方向后，解决Navigation button显示异常的问题
+    [common][mtk-patch]t-alps-mp-o1.mp5-V2.168 (Security patch: 2019-03-05)
+    [common][mtk-patch]t-alps-mp-o1.mp5-V2.158 (Security patch:2019-02-05)
+    [T6742_DYY]默认使用中性logo
+    [T6742_DYY]修改系统方向，默认横屏显示
+    [T6742_DYY]解决关机时，关机动画调用开机动画的问题
+    [T6742_DYY]解决关机动画无作用的问题
+    [T6742_DYY][systemui]
+        1.修改关机弹窗UI，添加息屏按钮
+     补丁编码:colin@20190403124312
+<<<<<
+-----------------------------

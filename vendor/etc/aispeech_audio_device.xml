@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<mixercontrol>
+    <versioncontrol value="1.00">
+    </versioncontrol> 
+    <!--mic setting--> 
+    <path name="builtin_Mic" value="turnon">
+        <kctl name="ADC1 PGA gain" value="27" />
+        <kctl name="ADC2 PGA gain" value="27" />
+        <kctl name="ADC3 PGA gain" value="14" />
+        <kctl name="ADC4 PGA gain" value="14" /> 
+        <kctl name="CH1 digital volume" value="160" />
+        <kctl name="CH2 digital volume" value="160" />
+        <kctl name="CH3 digital volume" value="160" />
+        <kctl name="CH4 digital volume" value="160" />
+    </path>
+    <path name="builtin_Mic" value="turnoff">
+    </path>
+</mixercontrol>

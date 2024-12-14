@@ -1,0 +1,14 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.secure=1
+security.perf_harden=1
+ro.allow.mock.location=0
+ro.debuggable=1
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=2019年 05月 31日 星期五 18:20:36 CST
+ro.bootimage.build.date.utc=1559298036
+ro.bootimage.build.fingerprint=alps/T6742_32/T6742_32:8.1.0/O11019/1559298527:userdebug/test-keys
+persist.sys.usb.config=adb

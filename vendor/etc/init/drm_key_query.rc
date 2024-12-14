@@ -1,0 +1,8 @@
+# change key_provisioning
+service drm_key_query /vendor/bin/drm_key_query
+    user root
+    disabled
+    oneshot
+
+on post-fs-data
+    start drm_key_query
